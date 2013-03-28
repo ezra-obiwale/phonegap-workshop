@@ -1,4 +1,0 @@
-phonegap-workshop
-=================
-
-Learning phonegap
